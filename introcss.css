@@ -1,0 +1,51 @@
+header
+{
+	font-weight: bold;
+	padding: 1em;
+    color: white;
+    background:green;
+    clear: left;
+    text-align: center;
+}
+
+footer
+{
+	font-weight:bold;
+	color:white;
+	font-style: italic; 
+	text-align: center;
+    background:black;
+
+}
+
+div.container 
+{
+    width: 100%;
+    border: 1px solid gray;
+}
+
+section
+{
+	font-weight:bold;
+	color:pink;
+	text-align: left;
+	float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+article {
+    margin-left: 200px;
+    border-left: 1px red;
+    padding: 1em;
+    overflow: hidden;
+    background:pink;
+
+}
+
+p1 {
+	font-weight: bold;
+	color: red;
+	font-size: 18px;
+}
